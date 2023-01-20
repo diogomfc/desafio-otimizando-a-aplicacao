@@ -1,8 +1,6 @@
 <h1 align="center">
   <img alt="Logo" src="./public/WatchMe.gif" alt="SpaceTraveling">
 </h1>
-<p align="center">Aplicação onde o seu principal objetivo é adicionar alguns trechos de código para que a aplicação de upload de imagens funcione corretamente</p>
-
 
 <p align="center">
  <a href="#sobre-o-projeto">Sobre o Projeto</a> •
@@ -29,7 +27,7 @@ Abaixo as tecnologias utilizadas para construção da aplicação
 - [ReactJS](https://reactjs.org/)
 - [Sass](https://sass-lang.comcom)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
-- [TypeScript](https://www.typescriptlang.org
+- [TypeScript](https://www.typescriptlang.org)
 - [JSON Server](https://www.npmjs.com/package/json-serverhttps://fauna.com)
 
 ---
